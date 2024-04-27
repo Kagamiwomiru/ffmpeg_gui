@@ -263,3 +263,10 @@ compile_commands.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,qt,git
+
+
+# additional
+ffmpeg_gui/
+.DS_Store
+.vscode/
+test*
