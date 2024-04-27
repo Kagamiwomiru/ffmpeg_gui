@@ -1,8 +1,6 @@
 import sys
 import os
 import glob
-import subprocess
-
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog , QDialog , QMessageBox
 from datakit import ValueStore, DefineStore
 from helpers.funtions.aboutWindow import AboutWindow
